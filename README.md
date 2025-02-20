@@ -1,6 +1,2 @@
-# halfkai.github.io
-
-## Welcome to visit my blog ~ 
-
-[go](/blog)
+## Welcome to visit [my blog ~ [halfkai.github.io]](/blog)
 
