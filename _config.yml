@@ -1,1 +1,4 @@
-theme: jekyll-theme-architect
+title: Tom's Pages
+description: All the things wrapped by ME!
+google_analytics:
+theme: jekyll-theme-slate
