@@ -1,4 +1,4 @@
-## Welcome to visit [my (just started) blog🕸️](/blog)
+## Welcome to visit [my (just started) blog🕸️](https://halfkai.github.io/blog)
 
 ## Check out [my repos🧑‍💻 (though not so much work done)](https://github.com/halfkai)
 
